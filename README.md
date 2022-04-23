@@ -1,5 +1,11 @@
-### Hi there. I'm a frontend React developer.
+
 [![Header](https://github.com/Djiypyk/djiypyk/blob/main/assets/logo1.jpg)](https://www.linkedin.com/in/nikolai-zarezako-99592121a/)
+## Hi there. I'm a frontend ✨React Developer✨.
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-lightgrey?style=for-the-badge&logo=typescript)
+![Storybook](https://img.shields.io/badge/-Storybook-lightgrey?style=for-the-badge&logo=storybook)
+![React](https://img.shields.io/badge/-React-lightgrey?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-lightgrey?style=for-the-badge&logo=redux)
 <!--
 **Djiypyk/djiypyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,9 @@
 
 [![Header](https://github.com/Djiypyk/djiypyk/blob/main/assets/logo1.jpg)](https://www.linkedin.com/in/nikolai-zarezako-99592121a/)
 ## Hi there. I'm a frontend ✨React Developer✨.
-###Used languages and tools:
+[![codewars](https://www.codewars.com/users/Djiypyk/badges/small)](https://www.codewars.com/users/Djiypyk)
 
+### Used languages and tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-lightgrey?style=for-the-badge&logo=typescript)
 ![Storybook](https://img.shields.io/badge/-Storybook-lightgrey?style=for-the-badge&logo=storybook)

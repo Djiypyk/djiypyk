@@ -1,5 +1,5 @@
 ### Hi there. I'm a frontend React developer.
-
+[![Header](https://github.com/Djiypyk/djiypyk/blob/main/assets/logo1.jpg)](https://www.linkedin.com/in/nikolai-zarezako-99592121a/)
 <!--
 **Djiypyk/djiypyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

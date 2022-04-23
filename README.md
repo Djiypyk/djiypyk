@@ -11,7 +11,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-lightgrey?style=for-the-badge&logo=redux)
 ![SCSS](https://img.shields.io/badge/-SASS-lightgrey?style=for-the-badge&logo=sass)
 
-###Follow me
+### Follow me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-lightgrey?style=for-the-badge&logo=instagram)](https://www.instagram.com/zarezako.nick/)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightgrey?style=for-the-badge&logo=Telegram)](https://t.me/Djiypyk)

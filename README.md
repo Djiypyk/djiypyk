@@ -1,6 +1,6 @@
 
 [![Header](https://github.com/Djiypyk/djiypyk/blob/main/assets/logo1.jpg)](https://www.linkedin.com/in/nikolai-zarezako-99592121a/)
-## Hi there. I'm a ✨Frontend (React/ReactNative)✨.
+## Hi there. I'm a ✨Mobile Developer (React/ReactNative)✨.
 [![codewars](https://www.codewars.com/users/Djiypyk/badges/small)](https://www.codewars.com/users/Djiypyk)
 
 ### Used languages and tools:
